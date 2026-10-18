@@ -1,3 +1,94 @@
+Package: byg.iosios.net.denyphotoalbumsllld.rootless
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 709
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: deb/byg.iosios.net.denyphotoalbumsllld.rootless_1.2.1_iphoneos-arm64e.deb
+Size: 152942
+MD5sum: de6993d56c64aab876a0c5bfed9e0050
+SHA1: 223fd7cb223f3d6e063ba8c9063bf3c6a79c0650
+SHA256: d1ec2c0dd1eccd693678c43536789e217b7bebb37b7b92d65bf6fdca5bf630d0
+Section: 系统增强
+Priority: optional
+Description: 系统照片增强，隐藏多个自定义选项，感谢巨魔商店M哥汉化分享！感谢有你，温暖春风！比官方高0.01个版本是因为之前已经上架修复版，这次是跟着官方更新汉化！
+Author: CydiaGeek
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: DenyPhotoAlbums相册增强-Rootless
+Sponsor: 搬运工
+
+Package: cn.llld.adshield
+Version: 0.2.0-2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 33225753@qq.com
+Pre-Depends: rootless-compat (>= 0.9)
+Filename: deb/cn.llld.adshield_0.2.0-2_iphoneos-arm64e.deb
+Size: 109374
+MD5sum: 7c125ebdac762eff4e81e6ca59a8ded8
+SHA1: 5ada87745ada62863a0c340a3a0ca5ad331b1f2e
+SHA256: cd7c851dcd7c8bfcdb5005f8db504808e30266dfe3025fd4e19dfa3ee19d0178
+Section: Tweaks
+Description: safari去广告(缩水精简版)，(注入个别应用可以，但有限不能自定义等)，网页广告净化与拦截记录，仅用于自有设备上的内容净化学习。
+Author: laileld 来了老弟
+Name: safari-Ads
+
+Package: cn.llld.snapshottool
+Version: 4.4
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1092
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: deb/cn.llld.snapshottool_4.4_iphoneos-arm64e.deb
+Size: 621458
+MD5sum: bee418923149ebd6224583ef0b300c0e
+SHA1: 2d4e45e72d4e8c878268b5818268da5e78f32c40
+SHA256: 25039e382503af47e46e5626e46e3f80f6aedc6af6ae7a489892011698928a52
+Section: rootless应用插件
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: STTool
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+
+Package: cn.octoforce.squidextender
+Version: 3.7.4
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: deb/cn.octoforce.squidextender_3.7.4_iphoneos-arm64e.deb
+Size: 4996938
+MD5sum: df6847f620b871b21bd2265f5c166c4d
+SHA1: 055312310553e597f3ae687bf3ae08dc4f256f3c
+SHA256: e87920a9e879d216ee28bc3aee286d88b61a49edb61aecd26236547f6236f6c3
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Author: SquidForce, Backup
+Name: SquidExtender(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Version: 2.7.6-1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 6668
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: deb/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64e.deb
+Size: 3694224
+MD5sum: 360dd7ee3499f2f927a37ae56d539616
+SHA1: b80bb3e3b80bf5c5b6ffaec6b6ffc2746272a773
+SHA256: 93ee5d9593eef3d806d79f9306d7443c3eeafe933eeacefb2a18046d2a18862c
+Section: Tweaks
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce, Backup
+Name: SquidGesturePro(激活码)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: com.be-huge.insulation
 Version: 0.1.38.1
 Architecture: iphoneos-arm64e
@@ -51,6 +142,24 @@ Author: 冰蓝
 Icon: https://huayuarc.github.io/icon/IceBlue.png
 Name: 全局水印 Pro
 
+Package: com.doimty.promotion
+Version: 1.0.14-1
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: cn.zqbb.fix120hz, cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: deb/com.doimty.promotion_1.0.14-1_iphoneos-arm64e.deb
+Size: 30518
+MD5sum: ed72fd23e37deaac8143bed0737011ce
+SHA1: d6dc3112d6dc94bc8b1648488b169a4c8a5f7d9f
+SHA256: 5a3574c75a357952bd3e492ebd3e03ad89fb049389fba571f1c864d6f1c888f4
+Section: Tweaks
+Description: High-refresh policy tweak for supported iPhone Pro models, with app and system refresh requests and a persistent SpringBoard keepalive.
+Tag: supports::roothide
+Author: doimty
+Name: ProMotion 120Hz
+
 Package: com.mrshi.lingdongdao
 Version: 1.0.0.2-235
 Architecture: iphoneos-arm64e
@@ -87,6 +196,45 @@ Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MoreColor
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
 
+Package: com.sini.onesettings
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: sini921
+Installed-Size: 1084
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: deb/com.sini.onesettings_2.2_iphoneos-arm64e.deb
+Size: 437462
+MD5sum: 3aa84d3c995848251e6876c2b84d4c4b
+SHA1: 3184870d3184525094b73a2994b7d80c5b5d043c
+SHA256: 05828e57058221abc12b7d6ac12bd9ad1330211a1330a9477942beec7942c47e
+Section: Tweaks
+Description: 设置美化，插件归类
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
+Name: OneSettings
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/onesettings/js.json
+Sponsor: sini921
+
+Package: com.wkk.copylogx
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 1828
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
+Filename: deb/com.wkk.copylogx_1.1-9_iphoneos-arm64e.deb
+Size: 690322
+MD5sum: dc32515cbe6ea7baf036ebf610cad09b
+SHA1: 0ed0ba5e0ed09a2b84376e8084373182b4bdc2ca
+SHA256: fbc68c4ffbc68809738a4086738a1f7a7b34cc767b343dae49df051e49df83e6
+Section: Tweaks
+Description: cool！
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: CopylogX
+
 Package: com.wkk.glasssuitex
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -119,4 +267,36 @@ Description: 键盘调整。
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KeyboardX（wkk）
+
+Package: com.wkk.tg
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 13768
+Filename: deb/com.wkk.tg_1.7.1_iphoneos-arm64e.deb
+Size: 6410898
+MD5sum: a517c1665099ed3082c68466b5abe3c7
+SHA1: 9b4a86029b4a965a9aab17309aabd49778c3cb8d
+SHA256: f10ad14bf10af50a4b4208194b42d9d317371d9217378fd571f7046271f70bf4
+Section: Tweaks
+Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
+Author: choco
+Icon: https://s1.imagehub.cc/images/2026/01/13/97aa70e87d310ef9c70f7c07ecf35464.jpeg
+Name: TGExtra
+
+Package: com.yourepo.ok95.mineland
+Version: 2.1.4debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306 <kk99588077@gmail.com>
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: deb/com.yourepo.ok95.mineland_2.1.4debug_iphoneos-arm64e.deb
+Size: 76518
+MD5sum: 50a496fba9998d09242f6c57d65aadff
+SHA1: f26c5e45f26ca68bdd05ff07dd056c01dc125c29
+SHA256: 88c399c288c3b6eb67a0b37e67a00b6cc98d681fc98de56220b5769020b5a963
+Section: Tweaks
+Description: (灵动岛透明度)若无需使用灵动岛,可将其隐藏井让它消夫。所有原始代码均来自KhanhDuyTran。(@TranKha50277352)
+Author: 34306, DuyKhanhTran <kk99588077@gmail.com>
+Name: mineland
 
