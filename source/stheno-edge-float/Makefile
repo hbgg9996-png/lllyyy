@@ -10,6 +10,7 @@ SthenoEdgeFloat_CFLAGS = -fobjc-arc
 SthenoEdgeFloat_FRAMEWORKS = UIKit QuartzCore
 SthenoEdgeFloat_PRIVATE_FRAMEWORKS = SpringBoard
 SthenoEdgeFloat_EXTRA_FRAMEWORKS = CydiaSubstrate
+SthenoEdgeFloat_PLIST_FILES = SthenoEdgeFloat.plist:Library/MobileSubstrate/DynamicLibraries/SthenoEdgeFloat.plist
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

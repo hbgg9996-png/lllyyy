@@ -7,4 +7,3 @@ Maintainer: Minis
 Author: Minis
 Section: Tweaks
 Depends: com.nx.stheno
-Conflicts: com.nx.stheno.edgefloat

@@ -1,0 +1,55 @@
+name: Build Stheno EdgeFloat
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'source/stheno-edge-float/**'
+      - '.github/workflows/build-stheno-edgefloat.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    defaults:
+      run:
+        working-directory: source/stheno-edge-float
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Theos
+        uses: Randomblock1/theos-action@v1
+        with:
+          theos-dir: ${{ github.workspace }}/theos
+          theos-src: https://github.com/theos/theos
+          theos-sdks: https://github.com/theos/sdks
+          theos-sdks-branch: master
+
+      - name: Build package
+        run: make package FINALPACKAGE=1
+
+      - name: Verify package metadata
+        run: |
+          mkdir -p build-output
+          cp -v packages/*.deb build-output/
+          dpkg-deb -f packages/*.deb Package Version Architecture Depends Description
+          sha256sum packages/*.deb > build-output/SHA256SUMS
+          cp -v packages/*.deb ../../stheno-edge-float-ci.deb
+
+      - name: Upload deb artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SthenoEdgeFloat-${{ github.sha }}
+          path: |
+            source/stheno-edge-float/build-output/*.deb
+            source/stheno-edge-float/build-output/SHA256SUMS
+          if-no-files-found: error
+
+      - name: Upload build log metadata
+        uses: actions/upload-artifact@v4
+        with:
+          name: SthenoEdgeFloat-build-info-${{ github.sha }}
+          path: source/stheno-edge-float/packages/*.deb
+          if-no-files-found: error
