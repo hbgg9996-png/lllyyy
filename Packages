@@ -273,6 +273,22 @@ Description: stheno分屏插件，适配16.0-17.3.1。
 Author: Crassna
 Name: Stheno
 
+Package: com.nx.stheno.edgefloat
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Minis
+Installed-Size: 184
+Depends: com.nx.stheno
+Filename: deb/com.nx.stheno.edgefloat_0.1.0_iphoneos-arm64.deb
+Size: 9302
+MD5sum: 605b5deff08010992f365da07959ad99
+SHA1: 772595697725271bf381323cf3819d1cffb843b3
+SHA256: 49fa975849fa6fc30be81b020be8b85cb3e27978b3e2c5c6eaa2b4ffeaa2b1e9
+Section: Tweaks
+Description: Add edge snapping floating-window behavior to Stheno.
+Author: Minis
+Name: Stheno EdgeFloat
+
 Package: com.sini.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64e
