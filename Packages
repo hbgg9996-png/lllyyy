@@ -69,6 +69,22 @@ Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MoreColor
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
 
+Package: com.wkk.glasssuitex
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 1968
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: deb/com.wkk.glasssuitex_1.1-1_iphoneos-arm64.deb
+Size: 396312
+MD5sum: d23212b6bd74d4b296026dcdbccf232b
+SHA1: 245139902451cf85661dd27c661dd7c0b99811b3
+SHA256: 7f0a3a9e7f0a8f754a0bdf174a0bc041664a92f5664a2e05cf2f2a20cf2f6156
+Section: Tweaks
+Description: cool
+Author: wkk
+Name: GlassSuiteX
+
 Package: com.wkk.keyboardx
 Version: 1.1-6
 Architecture: iphoneos-arm64
