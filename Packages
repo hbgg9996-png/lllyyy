@@ -107,6 +107,27 @@ Author: SquidForce, Backup
 Name: SquidGesturePro(激活码)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
+Package: com.Axs.bofangqi
+Version: 0.3.14
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 2708
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.jaysuen.evocenter, com.local.nativeplayerresize
+Replaces: com.local.nativeplayerresize
+Filename: deb/com.axs.bofangqi_0.3.14_iphoneos-arm64e.deb
+Size: 1716984
+MD5sum: 89395ccb7685ed3e509c5b0fcec61495
+SHA1: 457a700c457ae869bc783b2fbc78d0d0522ddd89
+SHA256: 00225cbc0022613757f82e5d57f8d8860b4701e10b47c11b2700694627004902
+Section: Tweaks
+Description: 单纯原生播放器尺寸调节
+Author: 夜辰
+Icon: https://axs66.github.io/pro/icon/ccaudioplay.png
+Name: 原生播放器调节
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bofangqi/js.json
+
 Package: com.be-huge.insulation
 Version: 0.1.38.1
 Architecture: iphoneos-arm64e
