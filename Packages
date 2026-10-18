@@ -33,6 +33,24 @@ Description: safari去广告(缩水精简版)，(注入个别应用可以，但�
 Author: laileld 来了老弟
 Name: safari-Ads
 
+Package: cn.llld.qqdsq
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 592
+Depends: mobilesubstrate, preferenceloader
+Filename: deb/cn.llld.qqdsq_1.3.3_iphoneos-arm64e.deb
+Size: 107196
+MD5sum: 2b1f3ed34538644f7d0b858526b42b11
+SHA1: b58236d7b582125f011d3080011dd9d7c758e029
+SHA256: 36e1f07d36e1c74baf676519af67869090911b219091c1c132077da03207975b
+Section: roothide插件
+Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
+Author: 来了老弟 X：h_h_x_t
+Icon: file:///Library/PreferenceBundles/qqdsqprefs.bundle/icons-llld/tubiao1.png
+Name: 芭比Q-roothide
+Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qqdsq/qqdsq-rootless.json
+
 Package: cn.llld.snapshottool
 Version: 4.4
 Architecture: iphoneos-arm64e
