@@ -214,6 +214,26 @@ Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MoreColor
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
 
+Package: com.nx.stheno
+Version: 0.1.12-3~backgroundreuse1+memoryopt1
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 2956
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0), firmware (<= 17.3.1)
+Conflicts: com.h.sthenokb, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.12-3~defaultscache1)
+Filename: deb/com.nx.stheno_0.1.12-3~backgroundreuse1+memoryopt1_iphoneos-arm64e.deb
+Size: 1536544
+MD5sum: 102808b21fe5cf176ac731eebbd7ceeb
+SHA1: 4d2544684d25450ebd09f882bd09132ebe1decc1
+SHA256: 3ad570dd3ad59bc3b9b48781b9b4bc96cd509f98cd5028c85cc524085cc54424
+Section: Tweaks
+Description: stheno分屏插件，适配16.0-17.3.1。
+Author: Crassna
+Name: Stheno
+
 Package: com.sini.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64e
