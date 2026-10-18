@@ -16,3 +16,20 @@ Depiction: http://test.test.com/depictions/?p=com.niceios.morecolor
 Name: MoreColor
 Sileodepiction: http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
 
+Package: com.wkk.keyboardx
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: deb/KeyboardX-wkk_1.1-6_iphoneos-arm64.deb
+Size: 80056
+MD5sum: 7f08c48602b60c8473c738247fe71bd2
+SHA1: afc77b33afc745ed2352921f2352b70a8138fe31
+SHA256: c1dbb513c1db695fc79f064dc79fdfc7fc996350fc99bbff728b841a728b30e9
+Section: 手势键盘
+Description: 键盘调整。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KeyboardX（wkk）
+
