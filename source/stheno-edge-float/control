@@ -1,0 +1,10 @@
+Package: com.nx.stheno.edgefloat
+Name: Stheno EdgeFloat
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Add edge snapping floating-window behavior to Stheno.
+Maintainer: Minis
+Author: Minis
+Section: Tweaks
+Depends: com.nx.stheno
+Conflicts: com.nx.stheno.edgefloat
