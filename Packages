@@ -345,6 +345,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Name: KeyboardX（wkk）
 
+Package: com.wkk.systembox
+Version: 1.5-8end
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 2792
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.wkk.clockglass
+Filename: deb/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb
+Size: 589412
+MD5sum: 375bbdc497d109cbd91ada5e4906ede2
+SHA1: 199b6e5f199b5bb9189f5362189f1ea8c22f0301
+SHA256: f45bf39cf45be73f2eac9c852eac1eb2e3fa8977e3fac3f42fff6e9a2fff7c3d
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SystemX
+
 Package: com.wkk.tg
 Version: 1.7.1
 Architecture: iphoneos-arm64e
