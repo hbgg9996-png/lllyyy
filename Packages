@@ -51,6 +51,24 @@ Author: 冰蓝
 Icon: https://huayuarc.github.io/icon/IceBlue.png
 Name: 全局水印 Pro
 
+Package: com.mrshi.lingdongdao
+Version: 1.0.0.2-235
+Architecture: iphoneos-arm64e
+Maintainer: MrShi
+Installed-Size: 2352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: deb/com.mrshi.lingdongdao_1.0.0.2-235_iphoneos-arm64e.deb
+Size: 865222
+MD5sum: 7ce097390d58b31728eb9634ab3c6746
+SHA1: a1a4aa26a1a42ce30de67cbd0de6ed6459074db6
+SHA256: 46bd2a3746bdd10288614f958861ce999cd48ee69cd4ec1ecd763f06cd765577
+Section: Tweaks
+Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
+Author: MrShi
+Icon: https://huayuarc.github.io/icon/CCMusic.png
+Name: 灵动岛自定义
+
 Package: com.niceios.morecolor
 Version: 1.0.0.1-3
 Architecture: iphoneos-arm64
