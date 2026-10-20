@@ -18,6 +18,24 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: DenyPhotoAlbums相册增强-Rootless
 Sponsor: 搬运工
 
+Package: byg.iosios.net.denyphotoalbumsllld.rootless
+Version: 1.2.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Local
+Installed-Size: 170
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Conflicts: com.local.hidehiddenalbum
+Filename: deb/byg.iosios.net.denyphotoalbumsllld.rootless_1.2.2-1+debug_iphoneos-arm64e.deb
+Size: 17372
+MD5sum: ed7c966407ac9b06118ca0c07409fecd
+SHA1: 0427cc290427d8d70d7120450d71c5b24aea0e10
+SHA256: bdc510c1bdc55b9bcdfe9354cdfeb7190986c50709866c96b65771e4b657764e
+Section: Tweaks
+Description: DenyPhotoAlbums 1.2.1 的单功能版本，仅保留隐藏相册的开关。
+Author: CydiaGeek
+Name: 隐藏隐藏相册 (DenyPhotoAlbums)
+
 Package: cn.llld.adshield
 Version: 0.2.0-2
 Architecture: iphoneos-arm64e
@@ -216,6 +234,122 @@ Description: High-refresh policy tweak for supported iPhone Pro models, with app
 Tag: supports::roothide
 Author: doimty
 Name: ProMotion 120Hz
+
+Package: com.hang.ccbackground
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 996
+Depends: mobilesubstrate
+Filename: deb/com.hang.ccbackground_1.5_iphoneos-arm64.deb
+Size: 204648
+MD5sum: 552251c483a904c0acd5587ae7cad216
+SHA1: 651347e465137fd3ba2d725dba2d48121cb5d892
+SHA256: 356630bb3566876e3427e80f342701c786b9fdaf86b92eff00a825f900a84fba
+Section: Tweaks
+Description: 控制中心背景
+Author: 航
+Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
+Name: 控制中心背景自定义
+
+Package: com.hang.kaiguan
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 972
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: deb/com.hang.kaiguan_2.3_iphoneos-arm64e.deb
+Size: 304814
+MD5sum: d5d63eebfb550cf7490391f8b40883d4
+SHA1: 282bca30282b8821899023fc8990edaf76c544c9
+SHA256: 8844efd78844c7910ce7d8850ce79c89e8281791e828e3330b1aa2ac0b1a86fc
+Section: Tweaks
+Description: 自用开关，有问题请卸载。
+Author: 航
+Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
+Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
+Name: 航の开关
+
+Package: com.hang.plugingroup
+Version: 3.6
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 3172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.hang.plugingroup_3.6_iphoneos-arm64.deb
+Size: 1056672
+MD5sum: 3bad212ee435ca74760eefd88e3dfee7
+SHA1: 8e8634638e86d4d7a96216eaa96260352c608529
+SHA256: 25f0c81f25f05b6c538330b35383d15dd1c75a78d1c7331180d8b02c80d8905c
+Section: 微信
+Description: 双指捏合。
+Author: 航
+Name: 微信插件收纳
+
+Package: com.hang.qqzaixian
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.hang.qqzaixian_1.0_iphoneos-arm64.deb
+Size: 28912
+MD5sum: 488f7a0f196d98c8c89b36dd1210f754
+SHA1: 6a0a3c096a0a6db050a5566f50a599633e5b0fe8
+SHA256: c1a03203c1a02fd5118e7915118ef8dbc79c5c24c79c1b79be0bb997be0bf3a5
+Section: Tweaks
+Description: 双指捏合
+Author: 航
+Name: QQ设备模拟
+
+Package: com.hang.tubiao
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: deb/com.hang.tubiao_1.2_iphoneos-arm64e.deb
+Size: 24942
+MD5sum: ccbb5a9464acb8419f2d7b87730268f0
+SHA1: fadf9184fadf40b047153ee64715bcd730ab08f3
+SHA256: c25ef73ec25ee7b54490cc2144903d47be310d05be31cb5a0075b49900754b28
+Section: Tweaks
+Description: 自定义锁屏时间/日期位置与大小
+Author: 航
+Name: 锁屏时间自定义
+
+Package: com.hang.wechatnoads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: deb/com.hang.wechatnoads_1.1_iphoneos-arm64.deb
+Size: 13206
+MD5sum: 888faec261402acbd766f32246435552
+SHA1: 55f7d57d55f776bbbf826e42bf825736dbb11ae4
+SHA256: b81399b7b813a0d72e09b3c82e091888cad2e7fccad2813d6a76b35e6a76f1e5
+Section: 广告
+Description: 微信去广告（公众号/朋友圈/小程序/搜索/视频号/订阅号），无开关注入即生效
+Author: 航
+Name: 航の微信去广告
+
+Package: com.local.hidehiddenalbum
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: Local
+Installed-Size: 67
+Depends: firmware (>= 14.0)
+Filename: deb/com.local.hidehiddenalbum_1.0.0-9+debug_iphoneos-arm.deb
+Size: 2482
+MD5sum: f91c63d7fd6f891b6fa511b80aa75136
+SHA1: f75095b3f750e87b93b11ddd93b1cac89310ed52
+SHA256: dc54922edc5419bd5af0c0845af016fe0fdc5b730fdcb821f339a301f3394298
+Section: Tweaks
+Description: 在系统照片应用中隐藏“隐藏”相簿。
+Author: Local
+Name: 隐藏隐藏相簿
 
 Package: com.mrshi.lingdongdao
 Version: 1.0.0.2-235

@@ -7,14 +7,14 @@ Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Cydia/Sileo jailbreak repository
 MD5Sum:
- d110c67be4b9271fdc608170701d3efb 16242 Packages
- 6b0984b0644d425e33f4cea016a31b2e 6385 Packages.gz
- ed5947af77af1b7a57611eafcd31be25 6120 Packages.bz2
+ 15a9f0dac340bba5f01fbcec532a8b84 20638 Packages
+ b5a6d480138f5ecb701a17b333f3f293 7780 Packages.gz
+ de1975abf6a5bfd8fed4992938298a23 7345 Packages.bz2
 SHA1:
- b93a16dae82a07d756adf6534df60cdea7f33f2e 16242 Packages
- 5f154c6cbab2b14c199dfdd43ac81fb8083ddec6 6385 Packages.gz
- ed1bd07da2abaec7da93b789adaf6f5bbdf4bad2 6120 Packages.bz2
+ 4c4b06a68668682003e872d774f407be970d0bf0 20638 Packages
+ 591b639bc2dce183d5260627bafe38afc47876a4 7780 Packages.gz
+ 23d2950d5e7ef03f9200a1d6265bf5ad9c0bdc83 7345 Packages.bz2
 SHA256:
- ac31ca816c435b8a9a0646ef56a918ba035d0ac3a4c3294f9d9fadaf33aefd00 16242 Packages
- 75786367075fa09708b8b1d0dc0bc124763ae4b91f3d55911b421e1f37cc7da4 6385 Packages.gz
- 855885aff2c2c4cfa23a6bd08baf0645c364e15023fd6ca15d12c19990c5e659 6120 Packages.bz2
+ 93e6ff8723f0c3a4ebdc46040429316038af2d3e33a81d9fbc3a1a9f97bf2fb9 20638 Packages
+ 3697eacdc76cfcad1db615ca88ac2e32ecd622664a8d2fb14b09c8e3b9221f68 7780 Packages.gz
+ d7fea0a2cb317c207ffe7fdcedfd55550e6b4122e48aaf74d2698ba205175e18 7345 Packages.bz2
