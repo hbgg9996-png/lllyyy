@@ -253,6 +253,22 @@ Depiction: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Icon: https://pic1.imgdb.cn/item/69e5dc9f198dd6f8d6ac6bd2.png
 Name: 控制中心背景自定义
 
+Package: com.hang.douyinclockdock
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 2760
+Depends: mobilesubstrate
+Filename: deb/com.hang.douyinclockdock_1.2_iphoneos-arm64e.deb
+Size: 609892
+MD5sum: 91697a796554e71e4a0d589838076944
+SHA1: 5e111cfd5e11ae9263cff47a63cf4c184b3e6f7b
+SHA256: 053fdea2053f406066dbb3b866db0141b0dd8bdfb0ddf26fb9d03326b9d086ef
+Section: Tweaks
+Description: dyyy魔改版
+Author: 航
+Name: 抖音Pro
+
 Package: com.hang.kaiguan
 Version: 2.3
 Architecture: iphoneos-arm64e
@@ -270,6 +286,40 @@ Author: 航
 Depiction: https://pic1.imgdb.cn/item/69e5a39901316fbabf2ca364.png
 Icon: https://hang1888.github.io/debs/com.hang.kaiguan-icon.jpg
 Name: 航の开关
+
+Package: com.hang.keyboardeffects
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 856
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: deb/com.hang.keyboardeffects_1.7_iphoneos-arm64e.deb
+Size: 149118
+MD5sum: a354e4e97195056218ac3a767c20624d
+SHA1: 0ae27ff40ae29bbf30dd3c0f30dd78c480d445e9
+SHA256: 64841a33648453c48d80394f8d80d524544c65f5544c2dcebb6ee594bb6e419c
+Section: Tweaks
+Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
+Author: 航
+Name: 键盘特效
+Sileodepiction: https://hang1888.github.io/depictions/com.hang.keyboardeffects/depiction.json?v=1.7-ui
+
+Package: com.hang.liquiddock
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 708
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 18.0)
+Filename: deb/com.hang.liquiddock_1.0_iphoneos-arm64e.deb
+Size: 479734
+MD5sum: 25ce9a4780f2e347faacf32c6f323ef6
+SHA1: 53cec1f953ce0d7ca81f7188a81f30b3df5bd011
+SHA256: 7d755e0e7d75903bbd9a5b8cbd9a8509459bf1f9459baba3d892d4a9d892fa95
+Section: Tweaks
+Description: 液态Dock
+Author: 航
+Icon: file:///usr/share/icons/com.hang.liquiddock.png
+Name: 液态Dock
 
 Package: com.hang.plugingroup
 Version: 3.6
