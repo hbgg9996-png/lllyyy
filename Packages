@@ -236,16 +236,16 @@ Author: doimty
 Name: ProMotion 120Hz
 
 Package: com.hang.ccbackground
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: 航
-Installed-Size: 996
+Installed-Size: 1000
 Depends: mobilesubstrate
-Filename: deb/com.hang.ccbackground_1.5_iphoneos-arm64.deb
-Size: 204648
-MD5sum: 552251c483a904c0acd5587ae7cad216
-SHA1: 651347e465137fd3ba2d725dba2d48121cb5d892
-SHA256: 356630bb3566876e3427e80f342701c786b9fdaf86b92eff00a825f900a84fba
+Filename: deb/com.hang.ccbackground_1.6_iphoneos-arm64.deb
+Size: 208264
+MD5sum: 4b8ed03df7b1a668a6641cc32b964271
+SHA1: 8d0de0278d0d3559e858f879e8583146e7143162
+SHA256: 164e0352164e102da4b9911ba4b99a9a5c00760b5c0006f0ad3f7d53ad3f99ae
 Section: Tweaks
 Description: 控制中心背景
 Author: 航
