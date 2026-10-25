@@ -233,6 +233,22 @@ Author: 一刀
 Icon: https://huayuarc.github.io/icon/LiquidAss.png
 Name: 88液态玻璃
 
+Package: com.codex.ccplayer
+Version: 1.7.226-1
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 2048
+Depends: firmware (>= 14.0), preferenceloader
+Filename: deb/com.codex.ccplayer_1.7.226-1_iphoneos-arm64e.deb
+Size: 16201724
+MD5sum: 5aa8cf09cca2f0837ee679765357e557
+SHA1: 910b5907910b79db58db8b1058db1e14637cb7c7
+SHA256: edcbed01edcb5a79b1686558b168b40d87ea660987eae433e8931957e893f0b7
+Section: 夜辰的插件
+Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
+Author: 夜辰
+Name: cc播放器
+
 Package: com.doimty.promotion
 Version: 1.0.14-1
 Architecture: iphoneos-arm64e
