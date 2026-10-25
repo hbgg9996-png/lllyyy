@@ -146,6 +146,22 @@ Icon: https://axs66.github.io/pro/icon/ccaudioplay.png
 Name: 原生播放器调节
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bofangqi/js.json
 
+Package: com.be-huge.bullet
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: deb/com.be-huge.bullet_1.0.7_iphoneos-arm64.deb
+Size: 211316
+MD5sum: ed189bb01cc1880be5b2e90d75d8df9b
+SHA1: a74228b9a742fdc6c8ba099fc8ba3988d43179a6
+SHA256: 0a53520a0a53008eec399113ec39bb62f86cb8a3f86cb9f5b330c9dfb3305629
+Section: Tweaks
+Description: 弹幕通知
+Author: be-huge
+Name: bullet(弹幕通知)-rootless
+
 Package: com.be-huge.insulation
 Version: 0.1.38.1
 Architecture: iphoneos-arm64e
