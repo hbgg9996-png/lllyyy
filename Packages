@@ -8,8 +8,8 @@ Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: deb/byg.iosios.net.denyphotoalbumsllld.rootless_1.2.1_iphoneos-arm64e.deb
 Size: 152942
 MD5sum: de6993d56c64aab876a0c5bfed9e0050
-SHA1: 223fd7cb223f3d6e063ba8c9063bf3c6a79c0650
-SHA256: d1ec2c0dd1eccd693678c43536789e217b7bebb37b7b92d65bf6fdca5bf630d0
+SHA1: 223fd7cba0973d6e063ba8c9e1baf3c6a79c0650
+SHA256: d1ec2c0dc434cd693678c43544ba9e217b7bebb35f7b92d65bf6fdca17a230d0
 Section: 系统增强
 Priority: optional
 Description: 系统照片增强，隐藏多个自定义选项，感谢巨魔商店M哥汉化分享！感谢有你，温暖春风！比官方高0.01个版本是因为之前已经上架修复版，这次是跟着官方更新汉化！
@@ -29,8 +29,8 @@ Conflicts: com.local.hidehiddenalbum
 Filename: deb/byg.iosios.net.denyphotoalbumsllld.rootless_1.2.2-1+debug_iphoneos-arm64e.deb
 Size: 17372
 MD5sum: ed7c966407ac9b06118ca0c07409fecd
-SHA1: 0427cc290427d8d70d7120450d71c5b24aea0e10
-SHA256: bdc510c1bdc55b9bcdfe9354cdfeb7190986c50709866c96b65771e4b657764e
+SHA1: 0427cc29859fd8d70d71204575b7c5b24aea0e10
+SHA256: bdc510c1928e5b9bcdfe93544c76b7190986c507f59e6c96b65771e42b88764e
 Section: Tweaks
 Description: DenyPhotoAlbums 1.2.1 的单功能版本，仅保留隐藏相册的开关。
 Author: CydiaGeek
@@ -44,8 +44,8 @@ Pre-Depends: rootless-compat (>= 0.9)
 Filename: deb/cn.llld.adshield_0.2.0-2_iphoneos-arm64e.deb
 Size: 109374
 MD5sum: 7c125ebdac762eff4e81e6ca59a8ded8
-SHA1: 5ada87745ada62863a0c340a3a0ca5ad331b1f2e
-SHA256: cd7c851dcd7c8bfcdb5005f8db504808e30266dfe3025fd4e19dfa3ee19d0178
+SHA1: 5ada8774373362863a0c340a3c2ca5ad331b1f2e
+SHA256: cd7c851d5d178bfcdb5005f898434808e30266df17125fd4e19dfa3e76d70178
 Section: Tweaks
 Description: safari去广告(缩水精简版)，(注入个别应用可以，但有限不能自定义等)，网页广告净化与拦截记录，仅用于自有设备上的内容净化学习。
 Author: laileld 来了老弟
@@ -60,8 +60,8 @@ Depends: mobilesubstrate, preferenceloader
 Filename: deb/cn.llld.qqdsq_1.3.3_iphoneos-arm64e.deb
 Size: 107196
 MD5sum: 2b1f3ed34538644f7d0b858526b42b11
-SHA1: b58236d7b582125f011d3080011dd9d7c758e029
-SHA256: 36e1f07d36e1c74baf676519af67869090911b219091c1c132077da03207975b
+SHA1: b58236d77bba125f011d3080a22bd9d7c758e029
+SHA256: 36e1f07d0fc5c74baf6765195e6e869090911b21963fc1c132077da07c5d975b
 Section: roothide插件
 Description: 给QQ加点小功能，有空就更，功能在手机"系统设置"。调试版本号：v8.9.58和v9.0以上，别的版本需自测。
 Author: 来了老弟 X：h_h_x_t
@@ -79,8 +79,8 @@ Depends: mobilesubstrate
 Filename: deb/cn.llld.snapshottool_4.4_iphoneos-arm64e.deb
 Size: 621458
 MD5sum: bee418923149ebd6224583ef0b300c0e
-SHA1: 2d4e45e72d4e8c878268b5818268da5e78f32c40
-SHA256: 25039e382503af47e46e5626e46e3f80f6aedc6af6ae7a489892011698928a52
+SHA1: 2d4e45e7496b8c878268b5815734da5e78f32c40
+SHA256: 25039e387dc1af47e46e5626e2943f80f6aedc6a964d7a48989201165db88a52
 Section: rootless应用插件
 Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
 Author: 来了老弟
@@ -99,8 +99,8 @@ Conflicts: com.squidforce.squidextender
 Filename: deb/cn.octoforce.squidextender_3.7.4_iphoneos-arm64e.deb
 Size: 4996938
 MD5sum: df6847f620b871b21bd2265f5c166c4d
-SHA1: 055312310553e597f3ae687bf3ae08dc4f256f3c
-SHA256: e87920a9e879d216ee28bc3aee286d88b61a49edb61aecd26236547f6236f6c3
+SHA1: 055312313030e597f3ae687b1f0108dc4f256f3c
+SHA256: e87920a9d6ead216ee28bc3a2b666d88b61a49ed5fa7ecd26236547f427ff6c3
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Author: SquidForce, Backup
@@ -117,8 +117,8 @@ Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
 Filename: deb/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64e.deb
 Size: 3694224
 MD5sum: 360dd7ee3499f2f927a37ae56d539616
-SHA1: b80bb3e3b80bf5c5b6ffaec6b6ffc2746272a773
-SHA256: 93ee5d9593eef3d806d79f9306d7443c3eeafe933eeacefb2a18046d2a18862c
+SHA1: b80bb3e3489ff5c5b6ffaec606b2c2746272a773
+SHA256: 93ee5d95cdeaf3d806d79f93c856443c3eeafe93aae3cefb2a18046d47cf862c
 Section: Tweaks
 Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
 Author: SquidForce, Backup
@@ -137,8 +137,8 @@ Replaces: com.local.nativeplayerresize
 Filename: deb/com.axs.bofangqi_0.3.14_iphoneos-arm64e.deb
 Size: 1716984
 MD5sum: 89395ccb7685ed3e509c5b0fcec61495
-SHA1: 457a700c457ae869bc783b2fbc78d0d0522ddd89
-SHA256: 00225cbc0022613757f82e5d57f8d8860b4701e10b47c11b2700694627004902
+SHA1: 457a700c5d34e869bc783b2fef2dd0d0522ddd89
+SHA256: 00225cbc8b77613757f82e5dbe63d8860b4701e19b93c11b27006946c5fa4902
 Section: Tweaks
 Description: 单纯原生播放器尺寸调节
 Author: 夜辰
@@ -155,8 +155,8 @@ Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: deb/com.be-huge.bullet_1.0.7_iphoneos-arm64.deb
 Size: 211316
 MD5sum: ed189bb01cc1880be5b2e90d75d8df9b
-SHA1: a74228b9a742fdc6c8ba099fc8ba3988d43179a6
-SHA256: 0a53520a0a53008eec399113ec39bb62f86cb8a3f86cb9f5b330c9dfb3305629
+SHA1: a74228b9935dfdc6c8ba099f91e23988d43179a6
+SHA256: 0a53520a66cf008eec399113aed5bb62f86cb8a3bde9b9f5b330c9dfe5645629
 Section: Tweaks
 Description: 弹幕通知
 Author: be-huge
@@ -171,8 +171,8 @@ Depends: firmware (>= 15.0)
 Filename: deb/com.be-huge.insulation_0.1.38.1_iphoneos-arm64e.deb
 Size: 57096
 MD5sum: 3a7e3d94795ffd6e82e88a56ca5a729a
-SHA1: 031eb53a031e073dfb5ce32efb5c6a47a73ac909
-SHA256: b3bb8dc7b3bb6d0ee785002fe7854cc92baf9be02baf92c25cf56a445cf5a8c9
+SHA1: 031eb53a22da073dfb5ce32e9d536a47a73ac909
+SHA256: b3bb8dc73e926d0ee785002f05b84cc92baf9be07a1e92c25cf56a44a95ea8c9
 Section: Tweaks
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
 Author: be-huge & doimty
@@ -189,8 +189,8 @@ Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
 Filename: deb/com.binglan.kongzhidiy_2.3.6-end_iphoneos-arm64e.deb
 Size: 3733296
 MD5sum: 7c881c8b252f9f1a33f909ebbbbe44fb
-SHA1: b28aefacb28aa50400846c2f008405d16be8ae7f
-SHA256: 7fa738c97fa7b092ce6d9952ce6d5d3110b7ea7710b791bca0864936a08675e3
+SHA1: b28aefac1863a50400846c2fb40805d16be8ae7f
+SHA256: 7fa738c9656cb092ce6d995210025d3110b7ea77466591bca0864936569675e3
 Section: Tweaks
 Description: 控制中心中心美化？
 Author: binglan
@@ -207,8 +207,8 @@ Depends: mobilesubstrate, preferenceloader
 Filename: deb/com.binglanqjsy.deb_4.1.6-end_iphoneos-arm64e.deb
 Size: 289908
 MD5sum: 9e0c3a628b0dc41747d3eece259e4002
-SHA1: 566d72c0566de11cd1816d41d181fd5e6188a67f
-SHA256: 06cd825f06cdbc6f2da4d15a2da4a5f5c19a2cc3c19a475d520df078520d6842
+SHA1: 566d72c0591de11cd1816d415c30fd5e6188a67f
+SHA256: 06cd825f04d6bc6f2da4d15a50ffa5f5c19a2cc308f1475d520df07857c66842
 Section: Tweaks
 Description: 添加全局水印相关功能，支持截图水印，录屏水印，套壳截图，套壳录屏。
 Author: 冰蓝
@@ -225,8 +225,8 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: deb/com.charlieleung.liquidify_1.3.7-4_iphoneos-arm64e.deb
 Size: 10538308
 MD5sum: 923c9e563317f50f10939e425962b9f8
-SHA1: 5238b97f5238f509d69d82d7d69d1adabea8a019
-SHA256: f0605c66f060d8a6e8b3c754e8b3bb79422289cf42222c59a5a4ff14a5a4d7ba
+SHA1: 5238b97fe760f509d69d82d74ff01adabea8a019
+SHA256: f0605c6650afd8a6e8b3c75484c7bb79422289cf055b2c59a5a4ff14740fd7ba
 Section: Tweaks
 Description: 88液态玻璃
 Author: 一刀
@@ -242,8 +242,8 @@ Depends: firmware (>= 14.0), preferenceloader
 Filename: deb/com.codex.ccplayer_1.7.226-1_iphoneos-arm64e.deb
 Size: 16201724
 MD5sum: 5aa8cf09cca2f0837ee679765357e557
-SHA1: 910b5907910b79db58db8b1058db1e14637cb7c7
-SHA256: edcbed01edcb5a79b1686558b168b40d87ea660987eae433e8931957e893f0b7
+SHA1: 910b590787d579db58db8b10ac261e14637cb7c7
+SHA256: edcbed0196ac5a79b1686558f657b40d87ea66096280e433e8931957069ef0b7
 Section: 夜辰的插件
 Description: 这是一款加强控制中心3x2/4x2播放器美化的插件，隐根版，38.8元激活作者微信Pb_0504_作者QQ：860059661
 Author: 夜辰
@@ -259,8 +259,8 @@ Conflicts: cn.zqbb.fix120hz, cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dyn
 Filename: deb/com.doimty.promotion_1.0.14-1_iphoneos-arm64e.deb
 Size: 30518
 MD5sum: ed72fd23e37deaac8143bed0737011ce
-SHA1: d6dc3112d6dc94bc8b1648488b169a4c8a5f7d9f
-SHA256: 5a3574c75a357952bd3e492ebd3e03ad89fb049389fba571f1c864d6f1c888f4
+SHA1: d6dc31120ce894bc8b16484888e69a4c8a5f7d9f
+SHA256: 5a3574c794c27952bd3e492ee2b403ad89fb04934b5aa571f1c864d62c1a88f4
 Section: Tweaks
 Description: High-refresh policy tweak for supported iPhone Pro models, with app and system refresh requests and a persistent SpringBoard keepalive.
 Tag: supports::roothide
@@ -276,8 +276,8 @@ Depends: mobilesubstrate
 Filename: deb/com.hang.ccbackground_1.6_iphoneos-arm64.deb
 Size: 208264
 MD5sum: 4b8ed03df7b1a668a6641cc32b964271
-SHA1: 8d0de0278d0d3559e858f879e8583146e7143162
-SHA256: 164e0352164e102da4b9911ba4b99a9a5c00760b5c0006f0ad3f7d53ad3f99ae
+SHA1: 8d0de02706e53559e858f879c5c03146e7143162
+SHA256: 164e0352784b102da4b9911bfba29a9a5c00760b186d06f0ad3f7d53ff2d99ae
 Section: Tweaks
 Description: 控制中心背景
 Author: 航
@@ -294,8 +294,8 @@ Depends: mobilesubstrate
 Filename: deb/com.hang.douyinclockdock_1.2_iphoneos-arm64e.deb
 Size: 609892
 MD5sum: 91697a796554e71e4a0d589838076944
-SHA1: 5e111cfd5e11ae9263cff47a63cf4c184b3e6f7b
-SHA256: 053fdea2053f406066dbb3b866db0141b0dd8bdfb0ddf26fb9d03326b9d086ef
+SHA1: 5e111cfd62e0ae9263cff47ad8f24c184b3e6f7b
+SHA256: 053fdea2d97c406066dbb3b8563b0141b0dd8bdf6041f26fb9d033266b0f86ef
 Section: Tweaks
 Description: dyyy魔改版
 Author: 航
@@ -310,8 +310,8 @@ Depends: firmware (>= 15.0), mobilesubstrate
 Filename: deb/com.hang.kaiguan_2.3_iphoneos-arm64e.deb
 Size: 304814
 MD5sum: d5d63eebfb550cf7490391f8b40883d4
-SHA1: 282bca30282b8821899023fc8990edaf76c544c9
-SHA256: 8844efd78844c7910ce7d8850ce79c89e8281791e828e3330b1aa2ac0b1a86fc
+SHA1: 282bca30d55b8821899023fcdb61edaf76c544c9
+SHA256: 8844efd77173c7910ce7d885ac769c89e8281791fbd1e3330b1aa2ac0a8086fc
 Section: Tweaks
 Description: 自用开关，有问题请卸载。
 Author: 航
@@ -328,8 +328,8 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: deb/com.hang.keyboardeffects_1.7_iphoneos-arm64e.deb
 Size: 149118
 MD5sum: a354e4e97195056218ac3a767c20624d
-SHA1: 0ae27ff40ae29bbf30dd3c0f30dd78c480d445e9
-SHA256: 64841a33648453c48d80394f8d80d524544c65f5544c2dcebb6ee594bb6e419c
+SHA1: 0ae27ff44d0c9bbf30dd3c0f322778c480d445e9
+SHA256: 64841a33d1cb53c48d80394f37dad524544c65f57d3e2dcebb6ee594da85419c
 Section: Tweaks
 Description: 原生键盘圆角与沿圆角轮廓的彩色发光点击特效
 Author: 航
@@ -345,8 +345,8 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), firmware (<< 18.0)
 Filename: deb/com.hang.liquiddock_1.0_iphoneos-arm64e.deb
 Size: 479734
 MD5sum: 25ce9a4780f2e347faacf32c6f323ef6
-SHA1: 53cec1f953ce0d7ca81f7188a81f30b3df5bd011
-SHA256: 7d755e0e7d75903bbd9a5b8cbd9a8509459bf1f9459baba3d892d4a9d892fa95
+SHA1: 53cec1f9c4610d7ca81f718867b030b3df5bd011
+SHA256: 7d755e0e2cdf903bbd9a5b8c38ac8509459bf1f9c682aba3d892d4a9e79cfa95
 Section: Tweaks
 Description: 液态Dock
 Author: 航
@@ -362,8 +362,8 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: deb/com.hang.plugingroup_3.6_iphoneos-arm64.deb
 Size: 1056672
 MD5sum: 3bad212ee435ca74760eefd88e3dfee7
-SHA1: 8e8634638e86d4d7a96216eaa96260352c608529
-SHA256: 25f0c81f25f05b6c538330b35383d15dd1c75a78d1c7331180d8b02c80d8905c
+SHA1: 8e8634633bbfd4d7a96216ea533560352c608529
+SHA256: 25f0c81f81025b6c538330b31e81d15dd1c75a787319331180d8b02c64dc905c
 Section: 微信
 Description: 双指捏合。
 Author: 航
@@ -378,8 +378,8 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: deb/com.hang.qqzaixian_1.0_iphoneos-arm64.deb
 Size: 28912
 MD5sum: 488f7a0f196d98c8c89b36dd1210f754
-SHA1: 6a0a3c096a0a6db050a5566f50a599633e5b0fe8
-SHA256: c1a03203c1a02fd5118e7915118ef8dbc79c5c24c79c1b79be0bb997be0bf3a5
+SHA1: 6a0a3c095e366db050a5566fc07199633e5b0fe8
+SHA256: c1a03203a6db2fd5118e79151196f8dbc79c5c24d5b81b79be0bb997adcaf3a5
 Section: Tweaks
 Description: 双指捏合
 Author: 航
@@ -394,8 +394,8 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: deb/com.hang.tubiao_1.2_iphoneos-arm64e.deb
 Size: 24942
 MD5sum: ccbb5a9464acb8419f2d7b87730268f0
-SHA1: fadf9184fadf40b047153ee64715bcd730ab08f3
-SHA256: c25ef73ec25ee7b54490cc2144903d47be310d05be31cb5a0075b49900754b28
+SHA1: fadf9184a67940b047153ee64e04bcd730ab08f3
+SHA256: c25ef73e75b4e7b54490cc21bc453d47be310d050501cb5a0075b4998c994b28
 Section: Tweaks
 Description: 自定义锁屏时间/日期位置与大小
 Author: 航
@@ -410,8 +410,8 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Filename: deb/com.hang.wechatnoads_1.1_iphoneos-arm64.deb
 Size: 13206
 MD5sum: 888faec261402acbd766f32246435552
-SHA1: 55f7d57d55f776bbbf826e42bf825736dbb11ae4
-SHA256: b81399b7b813a0d72e09b3c82e091888cad2e7fccad2813d6a76b35e6a76f1e5
+SHA1: 55f7d57dd3a676bbbf826e42b2bc5736dbb11ae4
+SHA256: b81399b713aaa0d72e09b3c8a2ab1888cad2e7fc494b813d6a76b35eee79f1e5
 Section: 广告
 Description: 微信去广告（公众号/朋友圈/小程序/搜索/视频号/订阅号），无开关注入即生效
 Author: 航
@@ -426,8 +426,8 @@ Depends: firmware (>= 14.0)
 Filename: deb/com.local.hidehiddenalbum_1.0.0-9+debug_iphoneos-arm.deb
 Size: 2482
 MD5sum: f91c63d7fd6f891b6fa511b80aa75136
-SHA1: f75095b3f750e87b93b11ddd93b1cac89310ed52
-SHA256: dc54922edc5419bd5af0c0845af016fe0fdc5b730fdcb821f339a301f3394298
+SHA1: f75095b38f95e87b93b11dddd949cac89310ed52
+SHA256: dc54922ed99119bd5af0c08440e916fe0fdc5b73da48b821f339a3017bba4298
 Section: Tweaks
 Description: 在系统照片应用中隐藏“隐藏”相簿。
 Author: Local
@@ -443,8 +443,8 @@ Depends: mobilesubstrate
 Filename: deb/com.mrshi.lingdongdao_1.0.0.2-235_iphoneos-arm64e.deb
 Size: 865222
 MD5sum: 7ce097390d58b31728eb9634ab3c6746
-SHA1: a1a4aa26a1a42ce30de67cbd0de6ed6459074db6
-SHA256: 46bd2a3746bdd10288614f958861ce999cd48ee69cd4ec1ecd763f06cd765577
+SHA1: a1a4aa26a31b2ce30de67cbdfe73ed6459074db6
+SHA256: 46bd2a37a7e5d10288614f95f1a8ce999cd48ee68c90ec1ecd763f06a63d5577
 Section: Tweaks
 Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
 Author: MrShi
@@ -460,8 +460,8 @@ Depends: mobilesubstrate
 Filename: deb/MoreColor.1.0.0.1-3.deb
 Size: 474520
 MD5sum: a828736034bac23f86645110978f292e
-SHA1: b6774cbfb677c9a586d756b386d7a94e12659ac0
-SHA256: c5cefe66c5ce52d31f4b8d6e1f4be2f799b83e7899b807b5af017344af01ec92
+SHA1: b6774cbf5e3cc9a586d756b3b989a94e12659ac0
+SHA256: c5cefe66212a52d31f4b8d6e225ee2f799b83e782b7b07b5af0173447b40ec92
 Section: Tweaks
 Description: 全局系统颜色自定义
 Author: MoreColor
@@ -482,8 +482,8 @@ Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.12-3~defaultscac
 Filename: deb/com.nx.stheno_0.1.12-3~backgroundreuse1+memoryopt1_iphoneos-arm64e.deb
 Size: 1536544
 MD5sum: 102808b21fe5cf176ac731eebbd7ceeb
-SHA1: 4d2544684d25450ebd09f882bd09132ebe1decc1
-SHA256: 3ad570dd3ad59bc3b9b48781b9b4bc96cd509f98cd5028c85cc524085cc54424
+SHA1: 4d2544683ad1450ebd09f88293ce132ebe1decc1
+SHA256: 3ad570dd6af69bc3b9b487817769bc96cd509f98ceb028c85cc524081b964424
 Section: Tweaks
 Description: stheno分屏插件，适配16.0-17.3.1。
 Author: Crassna
@@ -498,8 +498,8 @@ Depends: com.nx.stheno
 Filename: deb/com.nx.stheno.edgefloat_0.1.0_iphoneos-arm64.deb
 Size: 9302
 MD5sum: 605b5deff08010992f365da07959ad99
-SHA1: 772595697725271bf381323cf3819d1cffb843b3
-SHA256: 49fa975849fa6fc30be81b020be8b85cb3e27978b3e2c5c6eaa2b4ffeaa2b1e9
+SHA1: 77259569ae46271bf381323c9cb59d1cffb843b3
+SHA256: 49fa975871066fc30be81b028507b85cb3e27978bf3cc5c6eaa2b4ffae6ab1e9
 Section: Tweaks
 Description: Add edge snapping floating-window behavior to Stheno.
 Author: Minis
@@ -516,8 +516,8 @@ Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
 Filename: deb/com.sini.onesettings_2.2_iphoneos-arm64e.deb
 Size: 437462
 MD5sum: 3aa84d3c995848251e6876c2b84d4c4b
-SHA1: 3184870d3184525094b73a2994b7d80c5b5d043c
-SHA256: 05828e57058221abc12b7d6ac12bd9ad1330211a1330a9477942beec7942c47e
+SHA1: 3184870d49d9525094b73a29201ad80c5b5d043c
+SHA256: 05828e57441121abc12b7d6a36f4d9ad1330211af20aa9477942beec5ac0c47e
 Section: Tweaks
 Description: 设置美化，插件归类
 Author: Nightwind
@@ -536,8 +536,8 @@ Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceload
 Filename: deb/com.wkk.copylogx_1.1-9_iphoneos-arm64e.deb
 Size: 690322
 MD5sum: dc32515cbe6ea7baf036ebf610cad09b
-SHA1: 0ed0ba5e0ed09a2b84376e8084373182b4bdc2ca
-SHA256: fbc68c4ffbc68809738a4086738a1f7a7b34cc767b343dae49df051e49df83e6
+SHA1: 0ed0ba5e950f9a2b84376e80d7493182b4bdc2ca
+SHA256: fbc68c4f4dd88809738a40868fd91f7a7b34cc76dad33dae49df051ef54f83e6
 Section: Tweaks
 Description: cool！
 Author: wkk
@@ -553,8 +553,8 @@ Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceload
 Filename: deb/com.wkk.glasssuitex_1.1-1_iphoneos-arm64.deb
 Size: 396312
 MD5sum: d23212b6bd74d4b296026dcdbccf232b
-SHA1: 245139902451cf85661dd27c661dd7c0b99811b3
-SHA256: 7f0a3a9e7f0a8f754a0bdf174a0bc041664a92f5664a2e05cf2f2a20cf2f6156
+SHA1: 24513990e208cf85661dd27c017dd7c0b99811b3
+SHA256: 7f0a3a9e0b258f754a0bdf17201ec041664a92f51f872e05cf2f2a20b0936156
 Section: Tweaks
 Description: cool
 Author: wkk
@@ -569,8 +569,8 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: deb/KeyboardX-wkk_1.1-6_iphoneos-arm64.deb
 Size: 80056
 MD5sum: 7f08c48602b60c8473c738247fe71bd2
-SHA1: afc77b33afc745ed2352921f2352b70a8138fe31
-SHA256: c1dbb513c1db695fc79f064dc79fdfc7fc996350fc99bbff728b841a728b30e9
+SHA1: afc77b3387c645ed2352921f1f4eb70a8138fe31
+SHA256: c1dbb513eae9695fc79f064df00bdfc7fc9963502f09bbff728b841a866230e9
 Section: 手势键盘
 Description: 键盘调整。
 Author: wkk
@@ -587,8 +587,8 @@ Conflicts: com.wkk.clockglass
 Filename: deb/com.wkk.systembox_1.5-8end_iphoneos-arm64e.deb
 Size: 589412
 MD5sum: 375bbdc497d109cbd91ada5e4906ede2
-SHA1: 199b6e5f199b5bb9189f5362189f1ea8c22f0301
-SHA256: f45bf39cf45be73f2eac9c852eac1eb2e3fa8977e3fac3f42fff6e9a2fff7c3d
+SHA1: 199b6e5faff85bb9189f536203c41ea8c22f0301
+SHA256: f45bf39cf044e73f2eac9c850b221eb2e3fa8977dbf5c3f42fff6e9a9d237c3d
 Section: Tweaks
 Description: cool
 Author: wkk
@@ -603,8 +603,8 @@ Installed-Size: 13768
 Filename: deb/com.wkk.tg_1.7.1_iphoneos-arm64e.deb
 Size: 6410898
 MD5sum: a517c1665099ed3082c68466b5abe3c7
-SHA1: 9b4a86029b4a965a9aab17309aabd49778c3cb8d
-SHA256: f10ad14bf10af50a4b4208194b42d9d317371d9217378fd571f7046271f70bf4
+SHA1: 9b4a86028b30965a9aab17305dd7d49778c3cb8d
+SHA256: f10ad14bd5c2f50a4b420819604cd9d317371d920edb8fd571f704624fce0bf4
 Section: Tweaks
 Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
 Author: choco
@@ -620,10 +620,9 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: deb/com.yourepo.ok95.mineland_2.1.4debug_iphoneos-arm64e.deb
 Size: 76518
 MD5sum: 50a496fba9998d09242f6c57d65aadff
-SHA1: f26c5e45f26ca68bdd05ff07dd056c01dc125c29
-SHA256: 88c399c288c3b6eb67a0b37e67a00b6cc98d681fc98de56220b5769020b5a963
+SHA1: f26c5e45987ca68bdd05ff0753eb6c01dc125c29
+SHA256: 88c399c21a0ab6eb67a0b37eec1f0b6cc98d681f2175e56220b5769056d6a963
 Section: Tweaks
 Description: (灵动岛透明度)若无需使用灵动岛,可将其隐藏井让它消夫。所有原始代码均来自KhanhDuyTran。(@TranKha50277352)
 Author: 34306, DuyKhanhTran <kk99588077@gmail.com>
 Name: mineland
-

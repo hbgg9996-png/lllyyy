@@ -11,6 +11,9 @@ ARCHS="iphoneos-arm iphoneos-arm64 iphoneos-arm64e"
 # 1. 扫描 deb/ 生成 Packages
 dpkg-scanpackages -m deb /dev/null > Packages
 
+# 1.5 修正 dpkg-scanpackages 的 SHA1/SHA256 输出 bug（用真实文件哈希覆盖）
+python3 fix_checksums.py Packages
+
 # 2. 压缩索引
 gzip -9 -c Packages > Packages.gz
 bzip2 -9 -c Packages > Packages.bz2
